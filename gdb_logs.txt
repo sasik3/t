@@ -1,0 +1,9 @@
+ 1  r testcases/basic_add.s
+    2  bt
+    3  q
+    4  r                 new_token->next = val_b->next;
+    5  q
+    6  r testcases/basic_add.s
+    7  p val_b
+    8  q
+    9  show commands
